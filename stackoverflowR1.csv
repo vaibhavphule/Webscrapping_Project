@@ -1,0 +1,251 @@
+Questions,Votes,views
+"I installed jenkins and postgres on same centos7 server.I also installed and configured ""database"" and ""PostgreSQL Database Plugin"" as shown in this image:I want to insert data ...",0,2
+I am attempting to create a user directory that's name is equal to the user's 'id' which is an auto-incremented column in my database. that will later be used to store text files for the user to ...,0,2
+"I'm making a chat window with 2 forms, in Form1 the user can change the image from a Dialog File to a picturebox called Imagen_Usuario, and in Form2 the image from the picturebox Usuario_Actual should ...",0,3
+"How can ı change this code to make list like [[0],[0,1],[0,1,2]]a=[]lst = 3element = 1for i in range(lst):    a.append([0,1,2] * element)print(a)output = [[0, 1, 2], [0, 1, 2], [0, 1, 2]]",0,4
+"i was trying to access the //XPath xpath = XPathFactory.newInstance().newXPath();  but getting the issue like The package javax.xml.xpath is accessible from more than one module: <unnamed>, java....",0,2
+"I have the following model:Model: ""functional_1""__________________________________________________________________________________________________Layer (type)                    Output ...",0,2
+"How many VM's/ Machines can be configured as ""SLAVE"" Machines in Jmeter ""MASTER""Is it limited to only 10 or can we configure upto 50 also?Thanks in Advance!!",0,2
+I can't find a clear explanation as to what the Docker sleep command does so can someone explain please?I have had a look online but I can't find a simple explanation.,0,2
+"I have my PATH variable to point to my-project directory. However when I try to run the python script from outside it does not work. May be it tooks simple, but i am not able to find an answer.I have ...",0,2
+"I am new to haskell and is following the book ""Learn you a haskell for great good"". When rewriting the code from one of the example in the book, that includes where clause with guards, I get ...",0,2
+Is there any syntax highlight and formatter that works with Mountbank in vs-code.I don't know much about .ejs but all the result suggests to use HTML formatter for .ejs file which is not work with ...,0,2
+The user is uploading an excel file and if there are spaces in the header I  have to remove it and upload .Is it possible using PHP ?,0,5
+given date =05-01-2021new DateTime(Convert.ToDateTime(process.inorDate).AddDays(-1))Exception : ArguementOutofRangeExceptionit is showing a error called cannot convert System.Datetime to long,0,7
+"The code I have used for this purpose if only checking the single six's in the loophere it isfrom random import *trial = randint(1, 6)print(trial)counter = 0last_dice = randint(1, 6)print(...",0,3
+"Can anyone help with what does live result and static results mean?in javascript , getElementsByTagName() returns ""live"" results and getBoundingClientRect() are not live . what does this ...",0,5
+"I would have expected, that in the following function the first window.location.href works as a return, gets redirected to example.com, and the rest of the code would be ignored.() => {  window....",0,6
+"im beginner in flutter and im trying to make a widget like in mockup: that's contain a search bar and notification badge, after creating the code i get a error in debuggercode :Row(        ...",0,4
+"According this issue https://github.com/swagger-api/swagger-ui/issues/6846 Swagger UI's HTML sanitizer removes inline style, class, and data-* attributes. But it can be configured by useUnsafeMarkdown=...",0,3
+"Has anybody done a SwiftUi version of the Apple sample code ""Accessory Finder"" which is on the developer site?https://developer.apple.com/documentation/homekit/...",0,3
+Screenshot of what i am trying to impementI have a requirement to make the flexbox to show items that it can accomodate and rest of the elements shouldnt be visible.Also here each item is having a ...,0,5
+"I'm triyng to mix two arrays with .map() and .filter(), but my elements are doubled, tripled and more.My two arrays are,a = [      [ ""id"", 1536 ],      [ ""origin"", ""...",0,10
+I'm trying to sign a PDF document using one of the certificates listed in Windows Certificate Store.Base conditions set to develop this feature areI cannot use any third party library that has an ...,0,7
+I am using fabric 2.0 and CouchDB as a state database.The data in the blockfile are correct (according the input I entered via the WebApp)When I go to fauxton (http://localhost:6984/_utils/#database)...,0,4
+How can I keep only the minimum value in one column while preserving the rest of the data in the other columns in SQL?  I'm trying to filter the field 'OrderID' to exhibit the lowest order# by ...,0,5
+"So I'm working on a simple RPG game. I want to add an option to load progress through the game, but I guess I'm not that familiar with Java to do it without issues. The idea is to save the game on ...",0,5
+"I've been developing a new Vue project to control the connected devices from one point, I've been working on an admin template and it's all good but there is something that I want to learn and ...",0,3
+"We need to get rid of vaadin's default behavior when the ""Server connection lost"" message is shown. Our need is that the application doesn't show any message and doesn't block the user's ...",0,4
+"In Django File Based Caching, if I create an entry, does it create individual entries for each individual process? I am creating the entry from settings.py file.Thank you",0,3
+The code is working till reading the operation type. I searched and found about leading white-space issue and tried to fix the case by putting a blank space before %c. However it didn't work. Here is ...,0,6
+"I'm rendering a bit of html in the browser with renderToString because I need to extend some static html that's imported. Not very elegant, but has to be done.The issue is always get the warning...",0,4
+"I built a classifier for sentiment analysis with the help of a tutorial. Everything works . Evaluate individual tweets. However, I have a problem when I try to add a classifier to all tweets in a ...",0,7
+"I have a ticket service for purchase a specific ticket and validate requests with Laravel requests, I get some errors when my request isn't validated:{ ""message"": ""The given data was ...",0,4
+"I have the following code:myd = mergedCollection.find(myquery).sort(""Price"")print(""MY D: ""+str(myd))shoes = myd[0][""theAssociatedShoes""]print(""Shoes: ""+ str(...",0,5
+Following this answer how can I add a remove option(link) to the preview images?,0,7
+ContextI am trying to use Dask to reduce computation time for Spacy annotation of a corpus of news articles. Spacy works fine but I am new to Dask and I'm struggling to implement it properly.I have ...,0,5
+"this is the link https://www.baldor.com/catalog/ of the website i need to scrape and i need to extract the items under products like the link of motors,mounted bearings  using  python scrapy.i cannot ...",0,4
+"I develop the system to export some data from the client's side using the SOAP. I have a link to their staging wsdl, and implemented some kind of the SOAP client, but unfortunately my SOAP request is ...",0,4
+"I am using Selenuium to test a Django website.When I run my test, I get the following error:TypeError: 'WebElement' object is not callableHere are the relevant snippets of my code:base.pyimport ...",0,4
+"test = [{ CNA:72,RNA:52,LN:32,}]filter it using this arraytest2 ={CNA,RNA}and the result is looked like this [{ CNA:72,RNA:52}]",-3,13
+"There are questions like this and this, but they don't help.Per this Twitter documentation, we use Postman to build and send REST API requests to interface with the Twitter API.We can register a ...",0,3
+I am working on a Django project who uses Django channels for notifications and private messages. Everything works perfectly fine when a user is connected. But when no user is connected (login and ...,0,3
+I need your help to resolve a java genericity problem.I would like to correct the following error :The method reprendreProduits(EntiteRepriseDTO) in the type RepriseService is not applicable for the ...,0,4
+I am trying to use DI in my simple console application.when I try to use IHostBuilder in my class I get an error: 'Can not resolve symbol Host'.using System;using Microsoft.Extensions.Hosting;...,0,4
+"At line:1 char:35cd ""d:\sourav\VS for WD.vscode"" && gcc mycode.c -o mycode && ""d:\sourav\VS for ...                              ~~The token '&&' is not a ...",1,8
+"enter image description hereHo do I get the values of all the % (like -76%,88%..and so on) using night watchattached the ui /inspect element snapshot",0,3
+"I have a problem, when I am on page 2 or on any other page and I want to return to the index, the url that offers me the pagination on page 1 is the following (https://www.url.com/?page=1) and I would ...",-1,6
+Is there any way to get item specification from an item on serena dimensions just by knowing the item name and the path?,0,4
+I wan't use a service builder liferay inside my portlet angular . to display the result in my html tableservices.ts :public getPrescription(){    var instance = this;    return new Promise<...,0,3
+"Creating or updating a google contact with appscript is well documented. However I find no information on how to add a photo to a contact within appscript.Situation:A google sheet row with: Name, ...",0,5
+"I'm creating a site with php, angularjs etc.There is a view/state (ui-router) which triggers a service to query the Active Directory for information of people in a specific country.So far this works....",0,5
+"I have this table (bytestest) in my DB: |NAME | TYPE | id      | int | varbin  | varbinary(8000) | varblob | blob And I want to add data, read from a file, into the varblob column.I write this ...",0,6
+"I'm currently building the layout component (Navbar, Footer and Content), it looks like this:// containers/Layout/index.jsxexport default function Layout({ children }) {  const classes = useStyles()...",0,7
+I need to insert 3-4 million rows into a PostgreSQL database. This will be static lookup data.We have various staging environments on the way to production. I have seen all the answers here on Stack ...,0,5
+hello my name is piero de santo I am the director of a digital terrestrial television station we make a streaming visible on: http://www.calabriauno.news.We are having an app that should work with ...,0,5
+"I have to maintain a custom made CMS using symfony 4.4 .It is used to manage items, and URL are made from their slug, based on their name.The main problem is that their name tends to vary from time ...",0,5
+Hi I'm new to programming and have been working on a website using Firebase Firestore as my database.I wanted to create a subcollection in my already existing collection ('Einkaufsliste') by using ...,0,6
+"In my application I have integrated the WebRTC protocol so I can make a video call with participants. In order to show my local camera stream, I use a SurfaceViewRenderer inherited from this package ...",0,3
+How can I make a code where I have a loop that creates 2 lists made out of 6 unique integrals that change at each single repetition and then at each repetition I check if these 2 lists are equal and ...,0,12
+"When running whole feature file, some test-cases fails due to server error but when runned separately by making another feature file where there is only one scenario, the test-cases pass.By running ...",0,2
+"The following code behaves differently for the SAME file for interactive and admin-users vs. non-interactive ones. It seems to ALWAYS succeed for admins, but for non-admins, restricted default users ...",0,2
+"I am using Flink 1.12, and I have specified the time characteristic to be event time, as follows:env.setStreamTimeCharacteristic(TimeCharacteristic.EventTime)I have forgot to specify the water mark ...",0,4
+"Based on an almost identical question, I am trying to create unique based on several columns where rows should grouped into the same ID if ""there exists a path through any combination of the ...",0,8
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the clientat ServerResponse.setHeader (_http_outgoing.js:558:11)at ServerResponse.header (D:\D\Coding\Web Development\Final ...,0,4
+"I have a web app on Firebase hosting and I need to read some data from my DB.I can read any data I want with "".read"" permission.Eg:{    ""users"": {    "".write"": ""...",0,4
+I am defining the database schema and relationship using Sequelize.The relationship:users <----(1:N)----> notifications <----(N:1)----> adminsThe below error results after I save the ...,1,11
+After close ngb modal. click is not working in angular 11.I upgraded ngb version 9.1.0 and angular 11.I found why it has happened. after close modal. I can ngb-modal-window tag that is the problem. ...,0,4
+"I have created a form where ALL the fields are populated except dropdown      async initForm() {            this.discpForm = this.formBuilder.group({          action: ["""", [Validators....",0,9
+"I used to use an account to create an app, but later I forgot the account ID. how can I get the account back?And if this account/app is idle for a long time, will it be deleted by Heroku?",0,5
+Taking Ref: Suddenly Springfox Swagger 3.0 is not working with spring webfluxI have faced the same issue but the difference is only..I am not using spring boot.I have spring mvc4 project and added ...,0,3
+I am using Puppeteer and given a list of topics with the same tag structure I need to click a random one.If I use document.querySelector and click a random topic it works but I am not sure I can use ...,0,6
+Can we export data from MongoDB compass after applying the last stage of aggregation? I only see options to export the aggregation code from left side.,0,5
+"I am trying to see if there is already existing account with this email in database,when someone is trying to register in the application. When i try this i get Error 500Message Request processing ...",0,6
+I have a set of results that I fetch from the database and I use pagination to display 3 per page. I want the results to be formatted in a table where I get the post saying number 1 per row. Then when ...,0,4
+"UnicodeDecodeError informs the user about the position of a codepoint that cannot be decoded. However when using other methods that plain read() on the file object, this position is meaningless w.r.t. ...",0,4
+Is it possible to know the line number where the object has been created in python? I was looking into inspect module and sys module did not find anything relevant.,0,4
+"When the console starts, it will send a message ""Waiting for process"" and when you run the program, send a message to the console again ""The process started""While it works but I ...",0,8
+Is it possible to use a Java agent to get the number of instances of any Java class?For example if we haveclass Apple {...}The Java agent will return how many Apple instances are there in the ...,1,8
+I have a large personal repo which I use to keep my daily work files. I started using it since my laptop crashed last year and OneDrive could not restore all files. Particularly it had trouble with ...,0,5
+"Am using inlines(InlineModelAdmin) in my django Admin interface to make it easier to edit the models of the Parent model. However, by default, the extra forms for models appear at the bottom. The ...",0,2
+"Been trying to make the navbar items all one line, and while it works without the navbar collapse, it just doesn't want to work with the collapse. Here's the HTML:<!DOCTYPE HTML><html> ...",0,9
+"I am using statement$sql = ""INSERT IGNORE INTO return_routes (busNumber, stop_id) VALUES ('"" . $busNumber .""',"". $stop_id . "")"";      But I find that same(duplicate) ...",0,10
+"I created a new flutter package project.Trying to use dart:mirrors in tests, but it is not visible...Any guess why that happen?Here is my pubspec:name: testNamedescription: A new Flutter package....",0,4
+"So basically I have an array of items : [ apple, banana , peach , pear , coconut , orange ... and so on ]I want to display them in an embed but since embed has a character limit , I want to display ...",0,6
+"Suppose I have 6 screen ""A"", ""B"", ""C"", ""D"", ""E"", ""F"". First I have to navigate all the screens one by one(A=>B=C=>D=>E=>F). ...",0,12
+"I'm new in working with network in Swift, and I'm trying to figure out what are the best practices for creating data models, which have same values.A few simple data model examples:// ProfileModel ...",-3,10
+"I am new to programming and need to ask a question.So, this code loaded in logitech mouse pulls it down with a given speed :MoveMouseRelative(0,3)                        Sleep(25)essence of the ...",0,5
+"I have created HTML elements with JavaScript to pull data from the back-end server. I am trying to add CSS style to the elements, but I am having trouble as to how.I have tried using getElementById ...",0,32
+"I was setting up flutter project for the first time, i did all the necessary steps to get on board. When i run flutter doctor, no issues are found with it. Then when when i wanted to run the emulator ...",0,7
+I want to define an async method with a rust class. I did the following but I m still not sure if that is the right way to do it or if it's even possible this way.Ideally would want to find out how ...,0,7
+"I am trying to start the phone cell settings task in android, but in android 11 this does not work.            Intent intent = new Intent(""android.intent.action.MAIN"");            intent....",0,11
+The error message:PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key ...,-1,8
+"""Table name = titanic""This is my code:UPDATE titanic SET Age = 100, Where Age = 0;This is the error:14:17:38   UPDATE titanic Age = 1000, Where Age = 0Error Code: 1064. You have an ...",-1,12
+"I'am trying to send metricks to Prometheus from my Java code. I use MeterRegistry class for it. Metrick and tags what I send look like[tag(user-status=ACTIVE), tag(strategy-type=POOL), tag(verified=...",0,8
+I have been getting this error yet I have not yet installed any external antiviruses. After this error shows up almost all of my VS code extensions get disabled. I haven't found my solution yet,0,4
+"I had a Vite project for Vue2, It include a static html file.like followingimport template from 'editor.html';export default {    template: template}When I ran yarn dev, Terminal output:...",0,4
+I'm trying to develop an app that analyzes the live frames of the camera usign CameraX and MLKit Facedetecion API. it works fine in the preview usecase but the image analysis use case doesn't work at ...,0,5
+"I've tried a lot of Dockerfile samples to build my golang app, they're working fine running on local.Here is the last one Dockerfile I triedFROM golang:alpineEXPOSE 80RUN  mkdir -p /appWORKDIR /...",0,6
+So I am trying to make a real time facial emotion detection model with the help of YouTube tutorials and this is the error I came across.error                                    <ipython-input-...,0,5
+How to wait at this point for 3 seconds //wait 3 sec then continueclass MainActivity : AppCompatActivity() {override fun onCreate(savedInstanceState: Bundle?) {    super.onCreate(savedInstanceState)...,0,20
+I am making a network graph visualization with plotly of a dataset which has email traffic of a company (a modified version of the enron dataset). In this graph I have all the people working in the ...,0,9
+How to sum two times in Python using datetime module?For example 15:33:21.43691 + 01:12:47.65729. Should I use timedelta? Or is there any other way to do that? Thanks!,0,23
+The full error looks like:[12:43:50]: Pushing changes to remote git repo...error: src refspec master does not match anyerror: failed to push some refs to 'git@github.com:XXX/YYY.git'[12:43:50]: ...,0,4
+"def panda_data_frame (raw_data):    details = {}    sample_list = [1]    for data in raw_data:        for key,value in raw_data[data].items():            try:                if key == 'Time to ...",0,11
+"In the ABP suite CRUD generator, the option to choose DateTimeOffset is not available. Is there any way to add DateTimeOffset support to it?",0,3
+"I am currently using PHPWord to create a program that will load, edit, and save a Word file that is a template created by someone else.In that program, I plan to change the value of Creator in the ...",0,6
+"Site collection fields - _id, nameNode collection fields - _id, siteId, nameDevice collection fields - _id, nodeId, nameSensor collection fields - _id, deviceId, nameI am new with MongoDB, ...",0,4
+"I am using Flink 1.12, and I have following simple code snippet that want to demonstrate table and datasert integration.When I run the application, an error occurs and the exception is:Caused by: ...",0,3
+"while running following code getting null pointer exception but cross checked locater it is ok,tried several time but getting same response,pom class for login createdpom class for home page ...",0,7
+"So, I am trying to convert multiple PDFs into CSV. I have a code that does the scanning and transforms everything into a single CSV as of now. However, instead of converting the data into one single ...",-1,8
+"My c# app calls for sql stored function called Search, and passes some search term. I am using EasyFTS library whcich is available here : https://www.blackbeltcoder.com/Articles/data/easy-full-text-...",0,12
+"Okay, so I opened android studio and created new project of empty activity.I changed the layout of xml and modified the xml code without typing a single word in java file and run the android emulator ...",0,14
+"I am creating a subdomain-based multi-tenant laravel project using Tenancy For Laravel, everything is working fine except when trying to authenticate my API requests using Passport. How it works now ...",0,7
+Wondering if it's possible to do the following scenario. I'd like to create a new component that is actually a copy of an existing one with another style (Theme based).Let's take for example the ...,0,4
+"Say I have 2 lists:list_a=[1, 5, 10, 11]list_b = [2, 3, 4, 6, 7, 8, 9, 12, 13]I want to create the following dictionary:[{1: [2, 3, 4]}, {5: [6, 7, 8, 9]}, {10: []}, {11:[12,13]}]such that any ...",0,13
+I'm looking for a regex to achieve the following:When my input is  root:Folder1:fname I want to get fnameand when the input string is root:Folder1:'fname' to get again fname (no quotes!).For the ...,0,13
+"I am using PAM and cracklib for password validation, the words defined in the dictionary of known words if used as substring of password should be rejected by cracklib and pam module.When the word ...",0,3
+"I have a dataframe with the firts three columns. As you can see the date is the same for any region: from 2021-01-05 to 2021-01-10.So, I want to know if it is possible to automatically get a 3-day ...",1,7
+I have Foxit Quick PDF Library for rendering a multipage PDF to single .bmp files. How to show the first file and load the rest asynchronous? Because if i have a 10 page i have to wait some seconds....,0,9
+So i managed to link FreeType2 with dynamically by just including the dependencies directories and not linking anything. Dynamically is cool and all but i would really like to link it statically. I ...,0,6
+Any ideas how I can achieve this behavior? basically I am trying to maximize the screen area when scrolling.,0,6
+"I'm writing a bash script to process files using FFMpeg, depending on the number of files.I'm writing an if / elif statement to check for how many files there are that match a string, but first ...",0,8
+"I have server list in a deployment group targets, that need to read the servers names from the deployment group and build server urls dynamically.Is there any way to do it dynamically read server from ...",0,3
+I'm trying to schedule a firebase auth:export into a bucket using pubsub. My purpose is to have a backup of auth (the output of firebase auth:export is perfectly fine for my purposes) every day.This ...,0,5
+I have some data that is being received in onmessage() method of WebSocket API. The data I am sending from server is an image hence I am receiving the Blob data in several chunks. Is there any ...,1,6
+"I'm trying to learn making api calls in Flutter and make an app that'll be useful to me at least!For this, I'm making a call to Nifty's(Stock Exchange in India) API: https://www.nseindia.com/api/...",1,9
+"I am using the SharePoint Framework(SPFx) to create the webparts and want to add to the Teams tab. In my spfx project, I have included the list assets (by elements.xml and schema.xml) in the projects. ...",0,4
+"How to send integer parameter to rabbitMQ with aiormq.With this:async def save_to_db(number: int):    # Perform connection    connection = await aiormq.connect(""amqp://guest:guest@"" + ...",0,7
+"I'm trying to create a blog using Next.js and typescript, I'm having a problem with [slug].tsx, I keep getting the following error:Build error occurred Error: A required parameter (slug) was not ...",0,8
+"Is it currently possible to use a public ECR image to deploy a lambda? I have tried to create a public ECR image but I see an error in the web interface. I'm seeing an error: ""This is an invalid ...",0,6
+Shouldn’t it be possible to select a files in a folder and its subfolders with the query in OSQuery:SELECT path FROM file WHERE directory LIKE '/Users/%';That returns no results at all. What is ...,0,5
+"Trying to load sever-side dataTable with Get request, but unable to load the data. I tried  with below code. Could you please help the issue,this.dtOptions = {      paging: true,      lengthChange: ...",0,7
+I have to load a csv to pre-existing table(with data) in mysql db using python. But the column order is not same as the ones in the table. I cannot modify the csv also. How can I do it?,0,6
+"I don't know how to handle the following emitter:async create(createJobDto: CreateJobDto)  {    this.eventEmitter.emit(        ['job','create'],        createJobDto,    );}async update(...",0,4
+"Hello guys please i need help with this issue,i  used coinpaymentHosted Lib ,i have set the creditiate correct but i am having this error message when i try to proccess transaction here is my code,   ...",0,7
+I am fetching data from an external API using the fetch API. I would like to implement a loading cursor while the request is fetching the data. For this I'm trying to use the react-promise-tracker ...,0,10
+I have a flexbox container that uses white-space: pre formatting and contains some whitespace-only text nodes. However unless the whitespaces are wrapped in a span these are not displayed. Why is this ...,0,15
+"At a job I did, I was asked to put a search button on the empty part of the ball bar. Because I work on a Wordpress theme, I can only play in the sidebar footer sections in the widget section. I would ...",-4,23
+"We are uploading our data into Snowflake and we need to apply data quality rules to measure the data quality.The data coming is built on ODK surveys where within each survey, we are applying needed ...",0,6
+I have a server which has two IP assigned to its network interface and there is MYsql installed on this machine on port 3306. I am able to telnet to the port 3306 using the first IP address from ...,0,7
+"To minimize any uncertainties, all the unnecessary functions are removed.class MyClass {    public:        MyClass() {};};static void MyClass_print(MyClass* self, PyObject* args, PyObject* ...",0,11
+I'm trying to upgrade our Google Cloud SQL Postgresql DB from 9.6 to 13 using the Google Database Migration tooling through gcloud to perform a continuous migration from the PG9.6 source to the PG13 ...,0,6
+"I'm trying to use the module, called as ""pyzbar""but I have problems using it :(I called pyzbar module in my codebut it didn't work making an error which is FileNotFoundError: Could not ...",0,8
+"I am trying to show posts from page 2 not from page 1. So, how I can do it if there is an alternative answer?. Right now I am using offset and custom query for posts to do that but for pagination ...",-1,11
+I added a function to my functions.php that calculates what my latest post is and returns the link to that post. Now I want to use the result of this function when I press my button. So basically I ...,0,6
+"I have classpublic class SomeClass extends PanacheMongoEntity {  @BsonProperty(""d"")  public LocalDateTime date;}and resource interfacepublic interface SomeResource extends ...",0,6
+I have a class:package Member;public class Player implements Character{...}and I have interface that is not inside the package:public interface Character{...}I think that public intefaces ...,1,27
+"In my mobile test, I am trying to click on search input box which is of type JS, but now it is not able to click and adds ""#"" on URLCan someone helps me with that, I tried click with XPath ...",0,12
+"I have a few Conda environment for projects. They have been working successfully for a couple of years. A few days ago, I updated MacOS High Sierra --> Mojave. The update worked, but a few things ...",0,5
+"How to get write permission of Internal storage of All directories in Android 11, I want to create New Directory or New Folder in the root path of External Storage, I tried with Storage Access ...",1,8
+"I am trying to adapt route management.We have route codes that are tied to zipcode ranges. So, for example, zipcodes from 11111-99999 might be assigned to ROUTE-SCENIC. BUT for a specific client ...",0,9
+"I searched in the internet some articles about how can I hide the header in the server calls and I put this field on the web.config and this error appeared.I tried to put only """" instead of ...",-2,9
+"auto deviceInp =      mBufferManager->getDeviceBuffer(mInputParams.InputTensorNames[0]);  if (image.rows != mInputParams.ImgH || image.cols != mInputParams.ImgW) {    cv::cuda::resize(imgGpuSrc, ...",-1,4
+"I am trying to single out the plots of the solutions of a system of ODEs.I am assuming that the code (see below) I wrote, solves the system for a given parameter w at a time; I would like the code to ...",0,12
+"I created a website and wanted to read the data from the database and output it in a table. But I have encountered a problem. The problem is that the names of the employees are not displayed every day,...",0,3
+"I'm working on this hotel reservation system.I have multiple table for customer, reservation, bill, rooms, room type, agency.I'm making a receipt.All these tables are connected but I'm only getting ...",-1,15
+"I'm trying to retrieve the configuration of the apps integrated with Azure AD.I used Microsoft Graph API trying to get that piece of information, and also the Azure AD Powershell cmdlet, but all I ...",0,7
+"We have a VM in Compute Engine running CentOs 8. This VM is running for a long time and is never restarted. Last night, suddenly we lost connectivity to the VM through internal as well as external IPs....",0,3
+"i have a collection of Users like this{""user"": {    ""_id"": ""6073fdff72556c02e8fb4509"",    ""email"": ""XXX"",    ""admin"": ""XXX"", ...",0,5
+"Im new in Android studio.At first I got problem with Didn't find class ""java.sql.SQLType"". After I search I found that most of them say the version for mysql-connector 8.0.13 is too HIGH so ...",0,10
+"I have txtfile(textData.txt) which contains key-value pairs like :user1: johnuser2: bobuser3: williamNumber of value pairs are dynamic, it can be one, two, three or more than three, but there ...",0,11
+"Created a questionnaire in the service https://surveyjs.io. The result is given in the formatThe results are:{""question1"":[""item1""],""question2"":[""item2""],""...",0,5
+"We had a nice Prometheus Query involving the load of a node and its number of cpu cores:(avg(node_load1{instance=~""$instance""}) by (instance) / sum(machine_cpu_cores{instance=~""$...",0,3
+"Many documents explain how Kubernetes objects (pods, services...) can be labeled and how to filter/query objects using them.But none explains how they manage the metadata/labels! (I tried to find ...",0,5
+"I am writing a Hangman engine in order to try learn Python, the premise is the user picks a 5 letter word and the engine has 7 guesses to get the word right. I have finished version 1 which picks ...",-1,14
+"current build.gradle.kts:android {  // ...  variantFilter {        ignore = run {            val isSim = flavors[0].name == ""sim""            val isNet = !isSim            val isU = ...",0,3
+I'm testing a simple baremetal program on qemu-system-aarch64.I added a simple peripheral to generate interrupt and it generates interrupt when I enable the peripheral and when I give it a command. I ...,0,3
+"I am trying to make the I rate it ??/?? to be perfectly aligned in the center and floating in the left, so the I rate it ??/?? word(s) will have a perfect vertical shape. When I do it, the float ...",1,29
+"I want to send numerical data from Google Drive to Arduino Uno.For example, 0 (False), 1 (True)I'm trying to create an alarm system in Arduino Uno, Getting the number data from Google Drive or ...",0,5
+I was trying to multiply two Numpy array but I am getting broadcasting related error----------------------------------------------------------------------------ValueError                             ...,0,11
+I am using node bull for scheduling. Now in for my jobs i pass a cron time to it (which is a specific time and a date). Now since i have provided a strict cron then it must run for only one time or ...,0,6
+"I am working with a pandas dataframe. In this dataframe I have two columns one is enrollment (e_gk) and the other one is attendence (a_gk), there are some errors in data where attendence is high than ...",0,12
+I am using RxJs Behaviour subjects in following manner as below.=> Made a common service for all behaviour subjects like sample code below@Injectable()export class ProjectJobSelectionService {...,0,13
+"i have problem with redirects in my domainwhen i go to www.example.com - my doman redirect me to example.com - its ok! but,when i go to www.example.com/test - my domain redirect me to example.com ...",0,9
+i want to have an iframe with menus on the left and when clicked i want to change the iframe content on the left. how do I do that?,0,14
+"I would like to set the charset on my xpage to utf-8. I tried to do this via the theme design element:<resources>        <meta http-equiv=""content-type"" content=""text/html; ...",0,8
+"I'm using JavaScript in Angular to automatically add new rows to a able when a function is called, this is done after the HTML has already loaded.In each row of the table there is a cell containing a ...",0,9
+I follow the steps to setup a nginx server.Server started for the first time but after restarting or even reinstalling completely the server is unable restart.I can't restart nginx service. It shows ...,0,3
+I am trying to make a GitHub Actions workflow which will run all my unit tests in my project.Whenever I push to my CI-CD testing branch it will give me an error saying it is not able to read any of ...,0,5
+I am trying to authenticate a user through their email using DRF but so far it's only errors i've been getting.This is the class that handles the email verificationclass VerifyEmail(GenericAPIView):...,0,9
+I have this simple piece of code (Command pattern) that doesn't work as expected.Usually a polymorphic type would work when it's manipulated by either a pointer or a reference. So if Command is an ...,0,19
+"Using Android Studio 4.1.3 on Windows 10 with 8 GB of RAM (i5-10300h 4C/8T)I have created an AVD and set the RAM size to 640M, heap to 128M, Internal memory to 800M and no multi-core, among other ...",0,10
+"I have a data frame that comes probably from a pivot table, so it looks quite messy. It is not just an XY 2 dimension data, but a 4 or 5.What I am trying to do is, if certain conditions are fulfilled,...",1,25
+"When I run through AWS SSM run command I'm getting error as sh: syntax error: unexpected end of file (expecting ""done"")This is my .ksh script#! /usr/bin/kshecho test successaws ssm send-...",0,3
+I am awaiting a call to Amazon.S3.AmazonS3Client.UploadPartAsync but the await never resolves even though I am sure that the request has been fulfilled.        private async Task<Amazon.S3.Model....,0,7
+"index.jsconst [todo, setToDo] = useState([]);useEffect(async() => {socket.on(""receive_message"", (message) => {  let result = todos ? todos : [];  if (message.sendBy === 'user') { ...",0,23
+I have set up a MFSinkWriter that takes a RGB MFMediaType in input and generates a H.264 MFMediaType as output.I need to add SEI information for every MFSample that is encoded. using Windows Media ...,0,3
+"I tried to make the element 'branch' responsive aligned perfectly below 'status' when I tried to minimize the browser's window, how can I do that? This is what I've got so far result, I've also tried ...",0,6
+"I really need help. I am doing my thesis and can not get this code to work...I am trying to create a random forest model with ranger in R Markdown, but get this error:Error: mtry can not be larger ...",0,12
+I am trying to create and push a docker image to a Google Cloud Registry using Kreuzwerker provide I am able to create the image using the below code (provider settings else where) but when I set the ...,0,5
+"The main problem in my code is that the root.mainloop() block all the other functions, mainly the functions that communicates to the arduino and takes the elements from the queue.I've been looking on ...",0,6
+I'm new to Google Earth Engine and I can't modify or choose the computing power like the Compute Engine service on Google Cloud Platform.It's this possible! Thanks!,0,5
+"I define something and I want my define to work in redirect url's but I know I should add the f function but I don't know where to add. My code is:definedthing = ""whatever""[Click]({...",-1,9
+I am trying to classify some images which are distributed over 30 classes. the model takes 3 images at a time for feature extraction and later concatenates all the feature extracted for Dense layer ...,0,18
+"I have tried to the event using eventEmitter but in somehow, the event is not being pass.Here is the child component where I try to pass the object with eventEmitterimport { Component, OnInit,Input,...",0,11
+I'm trying to set the data property of my chart to values coming from this API: https://bgpie.net/api/rrc/00/mostfrequentstatefrequencycdf.I've created an Interface reflecting it:export interface ...,0,10
+I have cloned a local copy of the start.spring.io UI project. I want to have a pre-selected dependency whenever the page is loaded. I was thinking it could be easier to modify this UI project instead ...,0,8
+"Below is the output ofaws codepipeline get-pipeline --name test --region us-east-1Now I want to get the status of latestExecution when""stageName"": ""Source"" AND ""...",0,7
+"I am trying to deserialize a json object using Newtonsoft.KipReport<JsonStatusReport> rptStatus = JsonConvert.DeserializeObject<KipReport<JsonStatusReport>>(responseBody, ...",0,16
+I'm new to this stage. So Kindly may I know what are the best technologies and practices that I need to follow for archive below scenario.Need to develop application that can access inside the office ...,0,11
+"I am new to Spring Boot, and learning by doing it. I saw couple of videos and there they are showing to use @Valid keyword before the @RequestBody. But if i am doing so i am getting the error but not ...",0,18
+"I would need a help in Excel VBA. I need from I3 to I20 check all activities, find same activities in column A, then read number in colum C of that activity and sum it that there is a formula(sum or ...",0,14
+"If I remove .then(anotherDropdown.remove(0)) I see ""Loading..."" as the first option as expected but if I put the above line of code back in I never see it. How can I see it and remove it ...",0,8
+"I recently changed my coding program to VSC and I really like the ""Open Folder"" option to fast change between different files. But when using paths in code which depend on the motherfile ...",0,7
+"I created this programpackage mainimport ""fmt""var bankAccount = 12342func withdraw(withdrawAmnt int) int { //withdraw function, return int    bankAccount -= withdrawAmnt    if ...",-3,16
+"I unable to import Java jwt 3.10.0. in my spring project. Actually I was trying before version 3.15.0 but it was giving me an error in pom.xml""Dependency 'com.auth0:java-jwt:3.15.0' not found&...",0,9
+"I'm having troubles with datatype inference and therefore I decided to map datatype manually, however I have discovered I can't recognize Pandas datatype as expected.import pyarrow as paimport ...",0,8
+"I need to run a bunch of parallel processes, but cannot use the standard multiprocessing package since its serialization with pickle does not work for more complex objects. Therefore I'm currently ...",1,5
+I'm making an API call using karate that gives an HTML response (snippet below). I'm trying to extract the value='HotelTestLondonHotel'.  I tried to use the Karate.extract but I couldn't find an ...,0,3
+"I have a JS date like 2021-05-01 and time like 11:00 & AM or PM in different string. But i want my string to convert into this format 2021-05-01T:11:00+0600 . Now, i am new to JS and don't know ...",-1,22
+"I've found a way for doing it in SqlServer and Oracle, and for DB2 I've read I can manage to do that with SQL Workbench, but our client is using IBM Data Studio...",0,5
+I am trying to paint a component using another one. But I get NullPointerException. Any idea how to do that?package nn.broker.indicator;import javax.swing.*;import java.awt.*;public class TMP {...,0,13
+"i'm trying to send an email for the reset of a password in my application and this is the method showing me the erreur:    private SimpleMailMessage constructResetTokenEmail(String contextPath, ...",0,5
+"I have implemented a co-routine system. When I press ENTER to clear the first textbox, it calls contscript() which in turn calls lua_resume() but it doesn't continue the co-routine.So what do I pass ...",0,5
+I need to run for loop on 2 columns coming from a dataframe and return a dict. But when i use zip I am getting only a part of a string on which the loop is running.import pandas as pddef split(...,0,15
+How can I use HTML snippets inside Nunjucks files without every time changing the Language Mode?Is there an extension for HTML snippets inside Nunjucks or I can configure vscode own HTML snippets?,0,4
+"def input_data(n):        if n > 0:      tup = []      tup.append(tuple(map(str, input().split("" ""))))            input_data(n - 1)      #print(tuple(tup))      return tuple(tup)...",0,27
+I'm having a problem with local react-native-push-notification it's not working if the app is open and fcm notification is not tiggered. Here's my code...PushNotification.configure({      onRegister:...,0,2
+"I have set up my authentication using the Firebase.Auth library by Step Up Labs, Inc. I am able to register users on Firebase and automatically send a verification link to their e-mail as shown below. ...",0,4
+"I have my pandas df like below:import pandas as pdL1 = [['ID1', 0, 'key1a', 'value1a', 'pair1a'],      ['ID1', 2, 'key1c', 'value1c', 'pair1c'],      ['ID1', 1, 'key1b', 'value1b', 'pair1b'],     ...",0,12
+I try to connect my Shimmer3 (http://www.shimmersensing.com/products/shimmer3-imu-sensor) with my Linux Mint Computer and try to stream the data with bluetooth. For that i use the git hub Code:https:/...,0,6
+bool Sonde10::Ouvrir(const std::string nom_port_com){    boost::system::error_code ec;    //Création de la variable de retour de la fonction    bool bRetour (false);    //Création de la ...,0,15
+"I got a Next-js page ( User Specific, protected page ) that is rendered client-side only ( Fetches data client-side ).Everytime I navigate from another Next-js page ( without browser refresh ) to ...",0,8
+I understand that I need to change the value of the angular.json budget to avoid this warning. But I want to know how to reduce the warning number/size that is receiving am not sure what is the ...,0,10
+"I have been told (from the requirements specs) that the textSize of the TextView items of my RecyclerView must be 40px. I guess then, that in order to make it responsive depending on the screen size, ...",-2,16
+"I got a data frame and the type of the elements of one serial is list. like:Column [A, B] [A] [A,C] etc.I used the expressiondf[[ item == A for item in df['Column'].tolist()]]can only filter out ...",0,10
+"I have installed nginx in windows 7, location is C:\nginx. I am able to run nginx commands from this location, but not able to run nginx commands from another location. Set the system variable path as ...",0,7
+"Good day,I have a java web application that will send email with pdf attachment. The pdf is generated successfully, but when during send that time will hit FileNotFoundException (Operation not ...",0,5
+I am working on an esp project and compiled my code by using the esp32s2 toolchain and created a binary that ready to run on a real device. But I don't have a real device to test my binary. Is there ...,0,5
+"A particular question that I've been asked to do for my D.A.D class is as follows:• Write a SQL statement that does the following:• Display the StuId, Movie No, Title, Runtime, Rating code, Rating ...",0,25
+"I have found a good formatter as a Visual Studio Code Extension for the programming language I'm using. As usual, the code document can be formatted by right clicking and running the action (or by ...",0,4
+"I have 2D array, and I have a list of arrays which contain j and i coordinates to access values in the 2D array. How can I do this without the loop?F.e. my list of arrays has one array with [0,1,2] ...",0,6
+"I had knowledge about java so I  tried writing an if block within the for block saying,for i in range(25):    if i == 9:        i = 18    print(i)This code logic works in java but not in python. ...",-1,48
+"Let me keep it simpleInput:{  ""latitude"": 0.0000000,  ""longitude"": 0.00000000}dw code:output application/json---{  location: {    ""lat"": payload.latitude,    ...",0,9
+how do I make the program ask for a name and then alternate the result in uppercase and lowercase?Example:How is your name?georgeHello GeOrGeThanks,0,13
+I tried making 2 functions that use sqlite3 in python but when I run the code the functions would run even when not called.Whenever I run the program set_prod_ID() would run even though I only called ...,0,12
+"Hi everyone, i have a Drag&Drop issue, how do i disable absolutely positioned items from dragging into previous item's position?cdkDropListSortingDisabled doesnt cut it",0,5
+I'm creating a kotlin app. I'm new in kotlin. I download audios in my app. I have this code for downloading audio:coroutineScope.launch(Dispatchers.Default) {    val audioOutStream: OutputStream    ...,0,14
+Folks..!!Have a requirement to work on reading specific column data by using Spring batch. Well i am creating a spring batch application which has a requirement to read specific column.In my csv ...,0,6
+I know spring return response 200 default when @RestController.(Even if I set controller method return type to void and didn't return anything)I tried looking for specific position that spring ...,0,4
+"i'm getting a mistake, i want to use the post method with OOP, but i didin't find the error.<?php include 'config.php';class crud {private $db;private $dbhost = DBHOST;private $dbuser = ...",-3,21
+"When I try to create a new rule base, copy the Ex exist quantifier that has been defined in ""Isabelle2017\src\HOL\HOL.thy"", it will report an error, and use code_Q for mapping will also ...",-1,7
+Good morning.Thanks to the code provided here WooCommerce - get shipping country for non registered user I managed to add the correct discount to my checkout.A brief resume: I had to discount the ...,0,9
+"I have a simple discord bot made using python and I have deployed it on Heroku. My bot is running perfectly fine locally, but it never comes online. When I open my app, there is an application error....",-1,6
+"So i need a example of how to save the data to mongoose when my discord bot restarts, but idk how..Im thinking on a thingy if the bot restarts, with the ready event,to get the data of the command ...",0,7
+"I have written a Python-based application, which I then containerized and pushed into AWS ECR.The image is then pulled from a k8s Job and runs for however long it takes, until it is done. This could ...",0,9
+"We are using TagEditor for creating tag but when we call the url its call all value. Can anyone help related this issue.<script type=""text/javascript"">           var cache = {};    ...",0,12
+I have a working script that finds the data file when it is in the same directory as the script. This works both on my local machine and Google Colab.When I try it on GCP though it can not find the ...,0,6
+"I have an XPages application for Swedish users.When I am sending a message to the facescontext viamsg = propStrings.getProperty(""gen_CustDateDecided"") ;FacesContext facesContext = ...",0,8
+"I want to play default video on loop, but when button is clicked, I want to play another video once, and then go back to the video that was playing.Right now i can press button to switch to vid2, but ...",0,16
+I have the following expression:[\?&]([\w-]+)=([\w=.|()+%-]+)And i'm trying to validate the following querystring:?tn_cid=280&tn_fk_specifications_planten_planttype=Groene%20kamer+planten|...,0,15

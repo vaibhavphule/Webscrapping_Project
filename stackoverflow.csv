@@ -1,0 +1,100 @@
+Questions,Votes,views
+"this is the link https://www.baldor.com/catalog/ of the website i need to scrape and i need to extract the items under products like the link of motors,mounted bearings  using  python scrapy.i cannot ...",0,2
+"I develop the system to export some data from the client's side using the SOAP. I have a link to their staging wsdl, and implemented some kind of the SOAP client, but unfortunately my SOAP request is ...",0,2
+"I am using Selenuium to test a Django website.When I run my test, I get the following error:TypeError: 'WebElement' object is not callableHere are the relevant snippets of my code:base.pyimport ...",0,2
+"test = [{ CNA:72,RNA:52,LN:32,}]filter it using this arraytest2 ={CNA,RNA}and the result is looked like this[{ CNA:72,RNA:52}]",0,2
+"There are questions like this and this, but they don't help.Per this Twitter documentation, we use Postman to build and send REST API requests to interface with the Twitter API.We can register a ...",0,2
+I am working on a Django project who uses Django channels for notifications and private messages. Everything works perfectly fine when a user is connected. But when no user is connected (login and ...,0,2
+I need your help to resolve a java genericity problem.I would like to correct the following error :The method reprendreProduits(EntiteRepriseDTO) in the type RepriseService is not applicable for the ...,0,2
+I am trying to use DI in my simple console application.when I try to use IHostBuilder in my class I get an error: 'Can not resolve symbol Host'.using System;using Microsoft.Extensions.Hosting;...,0,4
+"At line:1 char:35cd ""d:\sourav\VS for WD.vscode"" && gcc mycode.c -o mycode && ""d:\sourav\VS for ...                              ~~The token '&&' is not a ...",0,5
+"enter image description hereHo do I get the values of all the % (like -76%,88%..and so on) using night watchattached the ui /inspect element snapshot",0,3
+"I have a problem, when I am on page 2 or on any other page and I want to return to the index, the url that offers me the pagination on page 1 is the following (https://www.url.com/?page=1) and I would ...",0,3
+Is there any way to get item specification from an item on serena dimensions just by knowing the item name and the path?,0,3
+I wan't use a service builder liferay inside my portlet angular . to display the result in my html tableservices.ts :public getPrescription(){    var instance = this;    return new Promise<...,0,3
+"Creating or updating a google contact with appscript is well documented. However I find no information on how to add a photo to a contact within appscript.Situation:A google sheet row with: Name, ...",0,4
+"I'm creating a site with php, angularjs etc.There is a view/state (ui-router) which triggers a service to query the Active Directory for information of people in a specific country.So far this works....",0,3
+"I have this table (bytestest) in my DB: |NAME | TYPE | id      | int | varbin  | varbinary(8000) | varblob | blob And I want to add data, read from a file, into the varblob column.I write this ...",0,5
+"I'm currently building the layout component (Navbar, Footer and Content), it looks like this:// containers/Layout/index.jsxexport default function Layout({ children }) {  const classes = useStyles()...",0,5
+I need to insert 3-4 million rows into a PostgreSQL database. This will be static lookup data.We have various staging environments on the way to production. I have seen all the answers here on Stack ...,0,3
+hello my name is piero de santo I am the director of a digital terrestrial television station we make a streaming visible on: http://www.calabriauno.news.We are having an app that should work with ...,0,3
+"I have to maintain a custom made CMS using symfony 4.4 .It is used to manage items, and URL are made from their slug, based on their name.The main problem is that their name tends to vary from time ...",0,5
+Hi I'm new to programming and have been working on a website using Firebase Firestore as my database.I wanted to create a subcollection in my already existing collection ('Einkaufsliste') by using ...,0,6
+"In my application I have integrated the WebRTC protocol so I can make a video call with participants. In order to show my local camera stream, I use a SurfaceViewRenderer inherited from this package ...",0,3
+How can I make a code where I have a loop that creates 2 lists made out of 6 unique integrals that change at each single repetition and then at each repetition I check if these 2 lists are equal and ...,0,10
+"When running whole feature file, some test-cases fails due to server error but when runned separately by making another feature file where there is only one scenario, the test-cases pass.By running ...",0,2
+"The following code behaves differently for the SAME file for interactive and admin-users vs. non-interactive ones. It seems to ALWAYS succeed for admins, but for non-admins, restricted default users ...",0,2
+"I am using Flink 1.12, and I have specified the time characteristic to be event time, as follows:env.setStreamTimeCharacteristic(TimeCharacteristic.EventTime)I have forgot to specify the water mark ...",0,3
+"Based on an almost identical question, I am trying to create unique based on several columns where rows should grouped into the same ID if ""there exists a path through any combination of the ...",0,6
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the clientat ServerResponse.setHeader (_http_outgoing.js:558:11)at ServerResponse.header (D:\D\Coding\Web Development\Final ...,0,4
+"I have a web app on Firebase hosting and I need to read some data from my DB.I can read any data I want with "".read"" permission.Eg:{    ""users"": {    "".write"": ""...",0,3
+I am defining the database schema and relationship using Sequelize.The relationship:users <----(1:N)----> notifications <----(N:1)----> adminsThe below error results after I save the ...,1,10
+After close ngb modal. click is not working in angular 11.Yesterday I upgraded ngb version 9.1.0.I found why it has happened. after close modal. I can that is the problem.enter image description ...,0,4
+"I have created a form where ALL the fields are populated except dropdown      async initForm() {            this.discpForm = this.formBuilder.group({          action: ["""", [Validators....",0,7
+"I used to use an account to create an app, but later I forgot the account ID. how can I get the account back?And if this account/app is idle for a long time, will it be deleted by Heroku?",0,5
+Taking Ref: Suddenly Springfox Swagger 3.0 is not working with spring webfluxI have faced the same issue but the difference is only..I am not using spring boot.I have spring mvc4 project and added ...,0,3
+I am using Puppeteer and given a list of topics with the same tag structure I need to click a random one.If I use document.querySelector and click a random topic it works but I am not sure I can use ...,0,6
+Can we export data from MongoDB compass after applying the last stage of aggregation? I only see options to export the aggregation code from left side.,0,5
+"I am trying to see if there is already existing account with this email in database,when someone is trying to register in the application. When i try this i get Error 500Message Request processing ...",0,5
+I have a set of results that I fetch from the database and I use pagination to display 3 per page. I want the results to be formatted in a table where I get the post saying number 1 per row. Then when ...,0,4
+"UnicodeDecodeError informs the user about the position of a codepoint that cannot be decoded. However when using other methods that plain read() on the file object, this position is meaningless w.r.t. ...",0,3
+Is it possible to know the line number where the object has been created in python? I was looking into inspect module and sys module did not find anything relevant.,0,4
+"When the console starts, it will send a message ""Waiting for process"" and when you run the program, send a message to the console again ""The process started""While it works but I ...",0,8
+Is it possible to use a Java agent to get the number of instances of any Java class?For example if we haveclass Apple {...}The Java agent will return how many Apple instances are there in the ...,1,7
+I have a large personal repo which I use to keep my daily work files. I started using it since my laptop crashed last year and OneDrive could not restore all files. Particularly it had trouble with ...,0,5
+"Am using inlines(InlineModelAdmin) in my django Admin interface to make it easier to edit the models of the Parent model. However, by default, the extra forms for models appear at the bottom. The ...",0,2
+"Been trying to make the navbar items all one line, and while it works without the navbar collapse, it just doesn't want to work with the collapse. Here's the HTML:<!DOCTYPE HTML><html> ...",0,6
+"I am using statement$sql = ""INSERT IGNORE INTO return_routes (busNumber, stop_id) VALUES ('"" . $busNumber .""',"". $stop_id . "")"";      But I find that same(duplicate) ...",0,9
+"I created a new flutter package project.Trying to use dart:mirrors in tests, but it is not visible...Any guess why that happen?Here is my pubspec:name: testNamedescription: A new Flutter package....",0,4
+"So basically I have an array of items : [ apple, banana , peach , pear , coconut , orange ... and so on ]I want to display them in an embed but since embed has a character limit , I want to display ...",0,5
+"Suppose I have 6 screen ""A"", ""B"", ""C"", ""D"", ""E"", ""F"". First I have to navigate all the screens one by one(A=>B=C=>D=>E=>F).After ...",0,9
+"I'm new in working with network in Swift, and I'm trying to figure out what are the best practices for creating data models, which have same values.A few simple data model examples:// ProfileModel ...",-2,9
+"I am new to programming and need to ask a question.So, this code loaded in logitech mouse pulls it down with a given speed :MoveMouseRelative(0,3)                        Sleep(25)essence of the ...",0,5
+"I have created HTML elements with JavaScript to pull data from the back-end server. I am trying to add CSS style to the elements, but I am having trouble as to how.I have tried using getElementById ...",0,27
+"I was setting up flutter project for the first time, i did all the necessary steps to get on board. When i run flutter doctor, no issues are found with it. Then when when i wanted to run the emulator ...",0,7
+I want to define an async method with a rust class. I did the following but I m still not sure if that is the right way to do it or if it's even possible this way.Ideally would want to find out how ...,0,7
+"I am trying to start the phone cell settings task in android, but in android 11 this does not work.            Intent intent = new Intent(""android.intent.action.MAIN"");            intent....",0,9
+The error message:PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key ...,-1,7
+"""Table name = titanic""This is my code:UPDATE titanic SET Age = 100, Where Age = 0;This is the error:14:17:38   UPDATE titanic Age = 1000, Where Age = 0Error Code: 1064. You have an ...",-1,11
+"I'am trying to send metricks to Prometheus from my Java code. I use MeterRegistry class for it. Metrick and tags what I send look like[tag(user-status=ACTIVE), tag(strategy-type=POOL), tag(verified=...",0,8
+I have been getting this error yet I have not yet installed any external antiviruses. After this error shows up almost all of my VS code extensions get disabled. I haven't found my solution yet,0,4
+"I had a Vite project for Vue2, It include a static html file.like followingimport template from 'editor.html';export default {    template: template}When I ran yarn dev, Terminal output:...",0,4
+I'm trying to develop an app that analyzes the live frames of the camera usign CameraX and MLKit Facedetecion API. it works fine in the preview usecase but the image analysis use case doesn't work at ...,0,5
+"I've tried a lot of Dockerfile samples to build my golang app, they're working fine running on local.Here is the last one Dockerfile I triedFROM golang:alpineEXPOSE 80RUN  mkdir -p /appWORKDIR /...",0,5
+So I am trying to make a real time facial emotion detection model with the help of YouTube tutorials and this is the error I came across.error                                    <ipython-input-...,0,5
+How to wait at this point for 3 seconds //wait 3 sec then continueclass MainActivity : AppCompatActivity() {override fun onCreate(savedInstanceState: Bundle?) {    super.onCreate(savedInstanceState)...,0,17
+I am making a network graph visualization with plotly of a dataset which has email traffic of a company (a modified version of the enron dataset). In this graph I have all the people working in the ...,0,9
+How to sum two times in Python using datetime module?For example 15:33:21.43691 + 01:12:47.65729. Should I use timedelta? Or is there any other way to do that? Thanks!,0,19
+The full error looks like:[12:43:50]: Pushing changes to remote git repo...error: src refspec master does not match anyerror: failed to push some refs to 'git@github.com:XXX/YYY.git'[12:43:50]: ...,0,4
+"def panda_data_frame (raw_data):    details = {}    sample_list = [1]    for data in raw_data:        for key,value in raw_data[data].items():            try:                if key == 'Time to ...",0,9
+"In the ABP suite CRUD generator, the option to choose DateTimeOffset is not available. Is there any way to add DateTimeOffset support to it?",0,3
+"I am currently using PHPWord to create a program that will load, edit, and save a Word file that is a template created by someone else.In that program, I plan to change the value of Creator in the ...",0,5
+"Site collection fields - _id, nameNode collection fields - _id, siteId, nameDevice collection fields - _id, nodeId, nameSensor collection fields - _id, deviceId, nameI am new with MongoDB, ...",0,4
+"I am using Flink 1.12, and I have following simple code snippet that want to demonstrate table and datasert integration.When I run the application, an error occurs and the exception is:Caused by: ...",0,3
+"while running following code getting null pointer exception but cross checked locater it is ok,tried several time but getting same response,pom class for login createdpom class for home page ...",0,6
+"So, I am trying to convert multiple PDFs into CSV. I have a code that does the scanning and transforms everything into a single CSV as of now. However, instead of converting the data into one single ...",-1,8
+"My c# app calls for sql stored function called Search, and passes some search term. I am using EasyFTS library whcich is available here : https://www.blackbeltcoder.com/Articles/data/easy-full-text-...",0,11
+"Okay, so I opened android studio and created new project of empty activity.I changed the layout of xml and modified the xml code without typing a single word in java file and run the android emulator ...",0,12
+"I am creating a subdomain-based multi-tenant laravel project using Tenancy For Laravel, everything is working fine except when trying to authenticate my API requests using Passport. How it works now ...",0,7
+Wondering if it's possible to do the following scenario. I'd like to create a new component that is actually a copy of an existing one with another style (Theme based).Let's take for example the ...,0,4
+"Say I have 2 lists:list_a=[1, 5, 10, 11]list_b = [2, 3, 4, 6, 7, 8, 9, 12, 13]I want to create the following dictionary:[{1: [2, 3, 4]}, {5: [6, 7, 8, 9]}, {10: []}, {11:[12,13]}]such that any ...",0,11
+I'm looking for a regex to achieve the following:When my input is  root:Folder1:fname I want to get fnameand when the input string is root:Folder1:'fname' to get again fname (no quotes!).For the ...,0,12
+"I am using PAM and cracklib for password validation, the words defined in the dictionary of known words if used as substring of password should be rejected by cracklib and pam module.When the word ...",0,3
+"I have a dataframe with the firts three columns. As you can see the date is the same for any region: from 2021-01-05 to 2021-01-10.So, I want to know if it is possible to automatically get a 3-day ...",0,5
+I have Foxit Quick PDF Library for rendering a multipage PDF to single .bmp files. How to show the first file and load the rest asynchronous? Because if i have a 10 page i have to wait some seconds....,0,8
+So i managed to link FreeType2 with dynamically by just including the dependencies directories and not linking anything. Dynamically is cool and all but i would really like to link it statically. I ...,0,6
+Any ideas how I can achieve this behavior? basically I am trying to maximize the screen area when scrolling.,0,6
+"I'm writing a bash script to process files using FFMpeg, depending on the number of files.I'm writing an if / elif statement to check for how many files there are that match a string, but first ...",0,6
+"I have server list in a deployment group targets, that need to read the servers names from the deployment group and build server urls dynamically.Is there any way to do it dynamically read server from ...",0,3
+I'm trying to schedule a firebase auth:export into a bucket using pubsub. My purpose is to have a backup of auth (the output of firebase auth:export is perfectly fine for my purposes) every day.This ...,0,5
+I have some data that is being received in onmessage() method of WebSocket API. The data I am sending from server is an image hence I am receiving the Blob data in several chunks. Is there any ...,1,6
+"I'm trying to learn making api calls in Flutter and make an app that'll be useful to me at least!For this, I'm making a call to Nifty's(Stock Exchange in India) API: https://www.nseindia.com/api/...",1,9
+"I am using the SharePoint Framework(SPFx) to create the webparts and want to add to the Teams tab. In my spfx project, I have included the list assets (by elements.xml and schema.xml) in the projects. ...",0,3
+"How to send integer parameter to rabbitMQ with aiormq.With this:async def save_to_db(number: int):    # Perform connection    connection = await aiormq.connect(""amqp://guest:guest@"" + ...",0,7
+"I'm trying to create a blog using Next.js and typescript, I'm having a problem with [slug].tsx, I keep getting the following error:Build error occurred Error: A required parameter (slug) was not ...",0,7
+"Is it currently possible to use a public ECR image to deploy a lambda? I have tried to create a public ECR image but I see an error in the web interface. I'm seeing an error: ""This is an invalid ...",0,6
+Shouldn’t it be possible to select a files in a folder and its subfolders with the query in OSQuery:SELECT path FROM file WHERE directory LIKE '/Users/%';That returns no results at all. What is ...,0,5
+"Trying to load sever-side dataTable with Get request, but unable to load the data. I tried  with below code. Could you please help the issue,this.dtOptions = {      paging: true,      lengthChange: ...",0,7
+I have to load a csv to pre-existing table(with data) in mysql db using python. But the column order is not same as the ones in the table. I cannot modify the csv also. How can I do it?,0,6
+"I don't know how to handle the following emitter:async create(createJobDto: CreateJobDto)  {    this.eventEmitter.emit(        ['job','create'],        createJobDto,    );}async update(...",0,4
+"Hello guys please i need help with this issue,i  used coinpaymentHosted Lib ,i have set the creditiate correct but i am having this error message when i try to proccess transaction here is my code,   ...",0,7
